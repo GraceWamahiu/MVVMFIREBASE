@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974557820943",
+    "project_id": "gracemvvm",
+    "storage_bucket": "gracemvvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974557820943:android:8f6f62840fce5361430b7a",
+        "android_client_info": {
+          "package_name": "com.example.firebasestorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTtxA8eIJJDc0D7TCLgRqre0PcM5edBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974557820943:android:230b58b4d24efb3e430b7a",
+        "android_client_info": {
+          "package_name": "com.example.graceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTtxA8eIJJDc0D7TCLgRqre0PcM5edBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
